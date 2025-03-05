@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>E-commerce website</title>
+</head>
+<body>
+<h1>E-commerce website</h1>
+<p>This is a E-commerce website created to deploy it in cloud using github</p>
+    <h2>Grocery</h2>
+<a href="https://www.google.com/search?sca_esv=341cca66a365eff2&q=grocery&udm=2&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpA-dk4wpBWOGsoR7DG5zJBsxayPSIAqObp_AgjkUGqekj1mGS-A4nDctosF_Gur5VL5DzJLGGofsCwmAt36QvqoWGG1xbBqjg6vzRsX4EFgsHHWywQeIDErsjkR8uDTACqd8gbz6hA8gRdfmVetzH-Pvvka_SopGavKQ74dU7Conhl0VYUue38wpDh6v9ma7BKpgZoQ&sa=X&ved=2ahUKEwj8_LSopvKLAxXLyzgGHUG_ANsQtKgLegQIDxAB&biw=752&bih=682">Click here to buy grocery product</a>
+<img src="games.webp">
+    <hr>
+<h2>Electronics</h2>
+<a href="https://www.google.com/search?q=electronic+items&oq=electronis+&gs_lcrp=EgZjaHJvbWUqCQgBEAAYChiABDIGCAAQRRg5MgkIARAAGAoYgAQyCQgCEAAYChiABDIMCAMQABgKGLEDGIAEMgkIBBAAGAoYgAQyDAgFEAAYChjJAxiABDIJCAYQABgKGIAEMgkIBxAAGAoYgAQyDAgIEAAYChiSAxiABDIJCAkQABgKGIAE0gEINDQ0N2owajeoAgewAgHxBTmn2l71XNRO&sourceid=chrome&ie=UTF-8">Click here to buy electronics product</a>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Felectronic-items&psig=AOvVaw1N171Kb7WMVLtXsAeTsZ-R&ust=1741242212639000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJiowv6m8osDFQAAAAAdAAAAABAE">
+      <hr>
+<h2>Sports and Games</h2>
+<a href="https://www.google.com/search?q=sports+and+games+items&sca_esv=341cca66a365eff2&ei=4-3HZ4jAFL2L4-EPhoiz2QY&oq=sports+and+games+iterm&gs_lp=Egxnd3Mtd2l6LXNlcnAiFnNwb3J0cyBhbmQgZ2FtZXMgaXRlcm0qAggAMgYQABgNGB4yCxAAGIAEGIYDGIoFMgsQABiABBiGAxiKBTILEAAYgAQYhgMYigUyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogQyBRAAGO8FMggQABiABBiiBEj_RFDLCFjtOnABeAGQAQCYAaYBoAHlFqoBBDAuMjK4AQHIAQD4AQGYAhegAvUXqAIKwgITEAAYgAQYQxi0AhiKBRjqAtgBAcICChAAGIAEGEMYigXCAgsQLhiABBjRAxjHAcICCxAAGIAEGLEDGIMBwgIFEAAYgATCAhEQLhiABBixAxjRAxiDARjHAcICBRAuGIAEwgIIEC4YgAQY1ALCAhEQABiABBiRAhixAxiDARiKBcICEBAAGIAEGLEDGEMYgwEYigXCAgoQLhiABBhDGIoFwgIIEAAYgAQYsQPCAgsQABiABBiRAhiKBcICFhAuGIAEGLEDGNEDGEMYgwEYxwEYigXCAhAQLhiABBjRAxhDGMcBGIoFwgIOEAAYgAQYsQMYgwEYigXCAgsQABiABBiSAxiKBcICCBAAGIAEGMkDwgILEC4YgAQYxwEYrwHCAgUQIRigAcICBRAhGJ8FwgIGEAAYFhgemAMG8QXJSJVqDM6AN7oGBAgBGAeSBwQxLjIyoAf5iQE&sclient=gws-wiz-serp">Click here to buy electronics product</a>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.indiamart.com%2Fproddetail%2Fall-type-of-sports-equipment-22248689791.html&psig=AOvVaw1sUd_yY9JdM7o0zoTqfj79&ust=1741242365894000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCKjLzLen8osDFQAAAAAdAAAAABAE">
+<button onclick="submit">View Cart</button>
+</body>
+</html>
